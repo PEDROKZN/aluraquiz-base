@@ -1,0 +1,45 @@
+{
+    "bg": "https://images6.alphacoders.com/782/782649.png",
+    "title": "Quiz Sobre Um dos jogos mobiles clássicos da década passada",
+    "description": "Teste os seus conhecimentos sobre Clash of Clans",
+    "questions": [
+      {
+        "image": "https://images8.alphacoders.com/782/thumb-350-782650.png",
+        "title": "Quando o Clash of Clans foi lançado no Brasil?",
+        "description": "Essa é moleza",
+        "answer": 1,
+        "alternatives": [
+          "2012",
+          "2013",
+          "2011",
+          "2014"
+        ]
+      },
+      {
+        "image": "https://images.alphacoders.com/855/thumb-350-855967.jpg",
+        "title": "Na primeira atualiiazação o Centro de Vila máximo era qual?",
+        "description": "essa é pra poucos hein hahahah",
+        "answer": 0,
+        "alternatives": [
+           "CV 8;",
+           "CV 5",
+           "CV 7;",
+           "CV 10;"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#82748F",
+        "secondary": "#FF5C2C",
+        "mainBg": "#FFFDC2",
+        "contrastText": "#000000",
+        "wrong": "#000066",
+        "success": "#063D3B"
+      },
+      "borderRadius": "5px"
+    }
+  }
