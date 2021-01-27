@@ -1,11 +1,12 @@
 {
     "bg": "https://images6.alphacoders.com/782/782649.png",
+    "bg1": "https://mfiles.alphacoders.com/849/thumb-849174.jpg",
     "title": "Quiz Sobre Um dos jogos mobiles clássicos da década passada",
     "description": "Teste os seus conhecimentos sobre Clash of Clans",
     "questions": [
       {
-        "image": "https://images8.alphacoders.com/782/thumb-350-782650.png",
-        "title": "Quando o Clash of Clans foi lançado no Brasil?",
+        "image1": "https://images8.alphacoders.com/782/thumb-350-782650.png",
+        "title1": "Quando o Clash of Clans foi lançado no Brasil?",
         "description": "Essa é moleza",
         "answer": 1,
         "alternatives": [
