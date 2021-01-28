@@ -1,12 +1,11 @@
 {
-    "bg": "https://images6.alphacoders.com/782/782649.png",
-    "bg1": "https://mfiles.alphacoders.com/849/thumb-849174.jpg",
+    "bg": "https://c4.wallpaperflare.com/wallpaper/199/640/878/awesome-clash-of-clans-skull-game-wallpaper-preview.jpg",
     "title": "Quiz Sobre Um dos jogos mobiles clássicos da década passada",
     "description": "Teste os seus conhecimentos sobre Clash of Clans",
     "questions": [
       {
-        "image1": "https://images8.alphacoders.com/782/thumb-350-782650.png",
-        "title1": "Quando o Clash of Clans foi lançado no Brasil?",
+        "image": "https://c4.wallpaperflare.com/wallpaper/230/380/985/video-game-clash-of-clans-wallpaper-preview.jpg",
+        "title": "Quando o Clash of Clans foi lançado no Brasil?",
         "description": "Essa é moleza",
         "answer": 1,
         "alternatives": [
@@ -18,7 +17,7 @@
       },
       {
         "image": "https://images.alphacoders.com/855/thumb-350-855967.jpg",
-        "title": "Na primeira atualiiazação o Centro de Vila máximo era qual?",
+        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
         "description": "essa é pra poucos hein hahahah",
         "answer": 0,
         "alternatives": [
@@ -34,13 +33,16 @@
     ],
     "theme": {
       "colors": {
-        "primary": "#82748F",
-        "secondary": "#FF5C2C",
-        "mainBg": "#FFFDC2",
+        "primary": "#31171E",
+        "secondary": "#E23A37",
+        "mainBg": "#D9CCC5",
         "contrastText": "#000000",
         "wrong": "#000066",
-        "success": "#063D3B"
+        "success": "#063D3B",
+        "word": "#E5DEDB",
+        "backgroundButton": "#3E7270",
+        "GitHubColor": "#0D0B0C"
       },
-      "borderRadius": "5px"
+      "borderRadius": "75px"
     }
   }

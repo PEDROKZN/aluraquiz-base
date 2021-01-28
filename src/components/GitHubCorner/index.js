@@ -11,8 +11,8 @@ const Wrapper = styled.div`
 `;
 
 const SVGWrapper = styled.svg`
-  fill: ${({ theme }) => theme.colors.secondary};
-  color: ${({ theme }) => theme.colors.contrastText};
+  fill: ${({ theme }) => theme.colors.backgroundButton};
+  color: ${({ theme }) => theme.colors.GitHubColor};
   cursor: pointer;
   &:hover .octo-arm{
     animation:octocat-wave 560ms ease-in-out
@@ -22,7 +22,7 @@ const SVGWrapper = styled.svg`
     20%,60%{transform:rotate(-25deg)}
     40%,80%{transform:rotate(10deg)}
   }
-  @media (max-width:500px){
+  @media (max-width:650px){
     &:hover .octo-arm{
       animation:none
     }

@@ -2,22 +2,22 @@ import styled from 'styled-components';
 
 // src/components/Footer/index.js
 const FooterWrapper = styled.footer`
-  background-color: #00000070;
-  padding: 20px;
+  background-color: #3A2517;
+  padding: 15px;
   display: flex;
   align-items: center;
   border-radius: 4px; 
   img {
     width: 58px;
-    margin-right: 23px;
+    margin-right: 15px;
   }
   a {
-    color: white;
+    color: whitesmoke;
     text-decoration: none;
-    transition: .3s;
+    transition: .4s;
     &:hover,
     &:focus {
-      opacity: .5;
+      opacity: .10;
     }
     span {
       text-decoration: underline;
