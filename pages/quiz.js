@@ -1,4 +1,5 @@
 /* eslint-disable react/prop-types */
+/* eslint-disable react/prop-types */
 import React from 'react';
 import db from '../db.json';
 import Widget from '../src/components/Widget';
@@ -56,7 +57,7 @@ function LoadingWidget() {
       </Widget.Header>
 
       <Widget.Content>
-        [Desafio do Loading]
+        [Desafio do Clash]
       </Widget.Content>
     </Widget>
   );
@@ -110,7 +111,7 @@ function QuestionWidget({
               onSubmit();
               setIsQuestionSubmited(false);
               setSelectedAlternative(undefined);
-            }, 3 * 1000);
+            }, 1 * 500);
           }}
         >
           {question.alternatives.map((alternative, alternativeIndex) => {

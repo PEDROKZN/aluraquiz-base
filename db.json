@@ -1,10 +1,10 @@
 {
-    "bg": "https://c4.wallpaperflare.com/wallpaper/199/640/878/awesome-clash-of-clans-skull-game-wallpaper-preview.jpg",
+    "bg": "https://i.imgur.com/DfMx4Zn.jpg",
     "title": "Quiz Sobre Um dos jogos mobiles clássicos da década passada",
     "description": "Teste os seus conhecimentos sobre Clash of Clans",
     "questions": [
       {
-        "image": "https://c4.wallpaperflare.com/wallpaper/230/380/985/video-game-clash-of-clans-wallpaper-preview.jpg",
+        "image": "https://i.pinimg.com/originals/8d/13/61/8d13610a1ca4195d2b2c739aa6390c26.gif",
         "title": "Quando o Clash of Clans foi lançado no Brasil?",
         "description": "Essa é moleza",
         "answer": 1,
@@ -16,7 +16,91 @@
         ]
       },
       {
-        "image": "https://images.alphacoders.com/855/thumb-350-855967.jpg",
+        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
+        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
+        "description": "essa é pra poucos hein hahahah",
+        "answer": 0,
+        "alternatives": [
+           "CV 8;",
+           "CV 5",
+           "CV 7;",
+           "CV 10;"
+        ]
+      },
+      {
+        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
+        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
+        "description": "essa é pra poucos hein hahahah",
+        "answer": 0,
+        "alternatives": [
+           "CV 8;",
+           "CV 5",
+           "CV 7;",
+           "CV 10;"
+        ]
+      },
+      {
+        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
+        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
+        "description": "essa é pra poucos hein hahahah",
+        "answer": 0,
+        "alternatives": [
+           "CV 8;",
+           "CV 5",
+           "CV 7;",
+           "CV 10;"
+        ]
+      },
+      {
+        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
+        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
+        "description": "essa é pra poucos hein hahahah",
+        "answer": 0,
+        "alternatives": [
+           "CV 8;",
+           "CV 5",
+           "CV 7;",
+           "CV 10;"
+        ]
+      },
+      {
+        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
+        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
+        "description": "essa é pra poucos hein hahahah",
+        "answer": 0,
+        "alternatives": [
+           "CV 8;",
+           "CV 5",
+           "CV 7;",
+           "CV 10;"
+        ]
+      },
+      {
+        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
+        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
+        "description": "essa é pra poucos hein hahahah",
+        "answer": 0,
+        "alternatives": [
+           "CV 8;",
+           "CV 5",
+           "CV 7;",
+           "CV 10;"
+        ]
+      },
+      {
+        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
+        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
+        "description": "essa é pra poucos hein hahahah",
+        "answer": 0,
+        "alternatives": [
+           "CV 8;",
+           "CV 5",
+           "CV 7;",
+           "CV 10;"
+        ]
+      },
+      {
+        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
         "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
         "description": "essa é pra poucos hein hahahah",
         "answer": 0,
@@ -33,16 +117,20 @@
     ],
     "theme": {
       "colors": {
-        "primary": "#31171E",
+        "primary": "#C18C4A",
         "secondary": "#E23A37",
-        "mainBg": "#D9CCC5",
+        "mainBg": "#E4D19F",
         "contrastText": "#000000",
-        "wrong": "#000066",
-        "success": "#063D3B",
+        "wrong": "#A84C4C",
+        "success": "#12365B",
         "word": "#E5DEDB",
-        "backgroundButton": "#3E7270",
-        "GitHubColor": "#0D0B0C"
+        "backgroundButton": "#5A0101",
+        "fontColor": "0C0D0E",
+        "GithubBottom": "#000000",
+        "GitHubColor": "#7F0103",
+        "borderColor": "#431315",
+        "InputButton": "#E9E6CA"
       },
-      "borderRadius": "75px"
+      "borderRadius": "85px"
     }
   }

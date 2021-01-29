@@ -9,6 +9,7 @@
     "lint": "eslint ./ --fix"
   },
   "dependencies": {
+    "caniuse-lite": "^1.0.30001180",
     "next": "latest",
     "prop-types": "^15.7.2",
     "react": "^16.8.0",

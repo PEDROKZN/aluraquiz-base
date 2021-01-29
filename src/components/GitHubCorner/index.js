@@ -4,14 +4,14 @@ import styled from 'styled-components';
 
 const Wrapper = styled.div`
   position: absolute;
-  top: 1;
+  top: 0;
   border: 0;
   right: 0;
-  z-index: 20;
+  z-index: 0;
 `;
 
 const SVGWrapper = styled.svg`
-  fill: ${({ theme }) => theme.colors.backgroundButton};
+  fill: ${({ theme }) => theme.colors.GithubBottom};
   color: ${({ theme }) => theme.colors.GitHubColor};
   cursor: pointer;
   &:hover .octo-arm{
@@ -22,7 +22,7 @@ const SVGWrapper = styled.svg`
     20%,60%{transform:rotate(-25deg)}
     40%,80%{transform:rotate(10deg)}
   }
-  @media (max-width:650px){
+  @media (max-width:500px){
     &:hover .octo-arm{
       animation:none
     }

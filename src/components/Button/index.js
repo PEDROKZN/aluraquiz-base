@@ -2,25 +2,25 @@ import PropTypes from 'prop-types';
 import styled from 'styled-components';
 
 const Button = styled.button`
-  background-color: ${({ theme }) => theme.colors.secondary};
-  color: ${({ theme }) => theme.colors.contrastText};
+  background-color: ${({ theme }) => theme.colors.backgroundButton};
+  color: ${({ theme }) => theme.colors.fontColor};
   border-radius: ${({ theme }) => theme.borderRadius};
-  border: 0;
+  border: 3;
   width: 100%;
-  padding: 10px 16px;
+  padding: 12px 15px;
   font-weight: bold;
   font-size: 14px;
   line-height: 1;
   text-transform: uppercase;
   outline: 0;
-  transition: .3s;
+  transition: .7s;
   cursor: pointer;
   &:hover,
   &:focus {
-    opacity: .5;
+    opacity: .7;
   }
   &:disabled {
-    background-color: #979797;
+    background-color: #5A6B7F;
     cursor: not-allowed;
   }
 `;
