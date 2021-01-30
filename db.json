@@ -4,7 +4,7 @@
     "description": "Teste os seus conhecimentos sobre Clash of Clans",
     "questions": [
       {
-        "image": "https://i.pinimg.com/originals/8d/13/61/8d13610a1ca4195d2b2c739aa6390c26.gif",
+        "image": "https://media4.giphy.com/media/UN4H6F7yjLGeY/source.gif",
         "title": "Quando o Clash of Clans foi lançado no Brasil?",
         "description": "Essa é moleza",
         "answer": 1,
@@ -20,7 +20,7 @@
         "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
         "description": "essa é pra poucos hein hahahah",
         "answer": 0,
-        "alternatives": [
+        "alternatives": [ 
            "CV 8;",
            "CV 5",
            "CV 7;",
@@ -28,87 +28,39 @@
         ]
       },
       {
-        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
-        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
-        "description": "essa é pra poucos hein hahahah",
-        "answer": 0,
+        "image": "https://media1.tenor.com/images/f3e368a7126960192a713fefc89c5dd5/tenor.gif?itemid=4169650",
+        "title": "Num confronto entre a P.E.K.K.A. nvl 6 e a Rainha arqueira nível 50 com a cura de 16 Curadoras, quem ganha?",
+        "description": "Nível impossivel heheheheh",
+        "answer": 1,
         "alternatives": [
-           "CV 8;",
-           "CV 5",
-           "CV 7;",
-           "CV 10;"
+           "Rainha Arqueira",
+           "P.E.K.K.A.",
+           "As Curadoras",
+           "Dá Empate"
         ]
       },
       {
-        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
-        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
-        "description": "essa é pra poucos hein hahahah",
-        "answer": 0,
+        "image": "https://media1.tenor.com/images/6d4808029b82bbd632ea0617c2db0844/tenor.gif?itemid=4169652",
+        "title": "Quanto custa a melhoria do dragão para o nivel 3?",
+        "description": "essa é dificil hein ",
+        "answer": 3,
         "alternatives": [
-           "CV 8;",
-           "CV 5",
-           "CV 7;",
-           "CV 10;"
+           "3.5 M",
+           "2 M",
+           "2.5 M",
+           "3 M"
         ]
       },
       {
-        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
-        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
-        "description": "essa é pra poucos hein hahahah",
-        "answer": 0,
+        "image": "https://thumbs.gfycat.com/CriminalWelloffDikdik-small.gif",
+        "title": "Quanto de elixir negor é necessário para upar a rainha arqueira para o nivel 2?",
+        "description": "essa nem eu sei rsrsrs",
+        "answer": 3,
         "alternatives": [
-           "CV 8;",
-           "CV 5",
-           "CV 7;",
-           "CV 10;"
-        ]
-      },
-      {
-        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
-        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
-        "description": "essa é pra poucos hein hahahah",
-        "answer": 0,
-        "alternatives": [
-           "CV 8;",
-           "CV 5",
-           "CV 7;",
-           "CV 10;"
-        ]
-      },
-      {
-        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
-        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
-        "description": "essa é pra poucos hein hahahah",
-        "answer": 0,
-        "alternatives": [
-           "CV 8;",
-           "CV 5",
-           "CV 7;",
-           "CV 10;"
-        ]
-      },
-      {
-        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
-        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
-        "description": "essa é pra poucos hein hahahah",
-        "answer": 0,
-        "alternatives": [
-           "CV 8;",
-           "CV 5",
-           "CV 7;",
-           "CV 10;"
-        ]
-      },
-      {
-        "image": "https://www.psyop.com/wp-content/uploads/2020/04/20936_F5tZZu_party-wizrd-gifgif.gif",
-        "title": "Na primeira atualiazação o Centro de Vila máximo era qual?",
-        "description": "essa é pra poucos hein hahahah",
-        "answer": 0,
-        "alternatives": [
-           "CV 8;",
-           "CV 5",
-           "CV 7;",
-           "CV 10;"
+           "30 000",
+           "42 500",
+           "45 000",
+           "22 500"
         ]
       }
     ],
