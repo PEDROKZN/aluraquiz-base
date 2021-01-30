@@ -34,7 +34,7 @@ function ResultWidget({ results }) {
         </p>
         <ul>
           {results.map((result, index) => (
-            <li key={`result__${result}`}>
+            <li key={`result__${index}`}>
               #
               {index + 1}
               {' '}
@@ -56,6 +56,15 @@ function LoadingWidget() {
       <Widget.Header>
         Carregando...
       </Widget.Header>
+
+      <Widget.Content style={{ display: 'flex', justifyContent: 'center' }}>
+        <Lottie
+          width="200px"
+          height="200px"
+          className="lottie-container basic"
+          config={{ animationData: loadingAnimation, loop: true, autoplay: true }}
+        />
+      </Widget.Content>
     </Widget>
   );
 }
